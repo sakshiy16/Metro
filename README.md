@@ -42,7 +42,7 @@ This is a C++ console-based Metro application that allows users to:
   ### 1. Clone the repository:
   ```plaintext
      git clone https://github.com/sakshiy16/Smart_Metro.git
-     cd Metro/src
+     cd Smart_Metro/src
    ```
  ### 2. Compile the project:
  ```plaintext
