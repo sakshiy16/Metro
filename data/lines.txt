@@ -1,2 +1,0 @@
-redline.txt
-blueline.txt

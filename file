@@ -1,9 +1,0 @@
-# File: file
-all:
-	g++ -std=c++17 src/*.cpp -o metro_app
-
-run: all
-	./metro_app
-
-clean:
-	rm -f metro_app
