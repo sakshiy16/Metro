@@ -3,11 +3,14 @@
 #include <iostream>
 #include <climits>
 #include <fstream>
+#include <sstream>
 
-vector<vector<pair<int, ll>>> adj(200);
+vector<vector<Edge>> adj(200);
 vector<string> stations;
+map<string, ll> colorFare;
 
 void build_graph() {
+    // Load stations
     ifstream fin("lines.txt");
     string stationName;
     while (getline(fin, stationName)) {
@@ -15,12 +18,36 @@ void build_graph() {
     }
     fin.close();
 
-    // Example hardcoded graph, update with your actual connections
-    adj[0].push_back({1, 10});
-    adj[1].push_back({0, 10});
-    adj[1].push_back({2, 15});
-    adj[2].push_back({1, 15});
-    // Add more connections here
+    // Define fares for each color
+    colorFare["yellowline"] = 7;
+    colorFare["blueline"] = 6;
+    colorFare["bluelineext"] = 5;
+    colorFare["greenline"] = 4;
+    colorFare["redline"] = 5;
+    colorFare["orangeline"] = 10;
+    colorFare["violetline"] = 6;
+
+    // Load connections
+    ifstream conn("connections.txt");
+    string line;
+    while (getline(conn, line)) {
+        stringstream ss(line);
+        string src, dest, color;
+        ss >> src >> dest >> color;
+
+        int srcIndex = -1, destIndex = -1;
+        for (size_t i = 0; i < stations.size(); ++i) {
+            if (stations[i] == src) srcIndex = i;
+            if (stations[i] == dest) destIndex = i;
+        }
+
+        if (srcIndex != -1 && destIndex != -1) {
+            ll fare = colorFare[color];
+            adj[srcIndex].push_back({destIndex, fare});
+            adj[destIndex].push_back({srcIndex, fare});
+        }
+    }
+    conn.close();
 }
 
 pair<vector<int>, ll> dijkstra(int src, int dest) {
@@ -39,8 +66,8 @@ pair<vector<int>, ll> dijkstra(int src, int dest) {
         if (u == dest) break;
 
         for (auto &edge : adj[u]) {
-            int v = edge.first;
-            ll weight = edge.second;
+            int v = edge.to;
+            ll weight = edge.fare;
 
             if (dist[v] > dist[u] + weight) {
                 dist[v] = dist[u] + weight;
@@ -70,7 +97,7 @@ pair<vector<int>, ll> bfs(int src, int dest) {
         if (u == dest) break;
 
         for (auto &edge : adj[u]) {
-            int v = edge.first;
+            int v = edge.to;
             if (!visited[v]) {
                 visited[v] = true;
                 parent[v] = u;
@@ -85,6 +112,8 @@ pair<vector<int>, ll> bfs(int src, int dest) {
 
     return {path, (ll)(path.size() - 1)};
 }
+
+
 
 
 

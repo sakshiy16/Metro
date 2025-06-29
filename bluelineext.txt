@@ -1,8 +1,8 @@
-Yamuna Bank
-Laxmi Nagar
-Nirman Vihar
-Preet Vihar
+Yamuna_Bank
+Laxmi_Nagar
+Nirman_Vihar
+Preet_Vihar
 Karkarduma
-Anand Vihar ISBT
+Anand_Vihar_ISBT
 Kaushambi
 Vaishali

@@ -1,15 +1,15 @@
-Kirti Nagar
-Satguru Ramsingh Marg
-Ashok Park Main
-Punjabi Bagh East
-Shivaji Park
+Kirti_Nagar
+Satguru_Ramsingh_Marg
+Ashok_Park_Main
+Punjabi_Bagh_East
+Shivaji_Park
 Madipur
-Paschim Vihar East
-Paschim Vihar West
-Peera Garhi
-Udyog Nagar
-Surajmal Stadium
+Paschim_Vihar_East
+Paschim_Vihar_West
+Peera_Garhi
+Udyog_Nagar
+Surajmal_Stadium
 Nangloi
-Nangloi Railway station
-Rajdhani Park
+Nangloi_Railway_station
+Rajdhani_Park
 Mundka

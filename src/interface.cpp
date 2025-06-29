@@ -54,36 +54,26 @@ int main() {
             }
 
             if (src == -1 || dest == -1) {
-                cout << "Invalid station name entered!" << endl;
-                continue; // back to menu
+                cout << "Invalid station name entered!\n";
+                continue;
             }
 
             pair<vector<int>, ll> result = (choice == 1) ? dijkstra(src, dest) : bfs(src, dest);
             cout << "Route: ";
             print_path(result.first);
+            cout << ((choice == 1) ? "Total Fare: " : "Number of Stations: ") << result.second << endl;
 
-            if (choice == 1) { // Cheapest route with fare deduction
-                cout << "Total Cost: " << result.second << endl;
-
-                int fare_per_station = 5;
-                int total_fare = (result.first.size() - 1) * fare_per_station;
-                cout << "Total Fare: " << total_fare << " Rs." << endl;
-
-                if (balance >= total_fare) {
-                    balance -= total_fare;
-                    ofstream fout("fare.txt");
-                    fout << balance;
-                    fout.close();
-                    cout << "Fare deducted. Remaining balance: " << balance << endl;
-                } else {
-                    cout << "Insufficient balance!" << endl;
-                }
-
-            } else if (choice == 2) { // Shortest route without fare deduction
-                cout << "Number of Stations: " << result.second << endl;
+            if (choice == 1 && balance >= result.second) {
+                balance -= result.second;
+                ofstream fout("fare.txt");
+                fout << balance;
+                fout.close();
+                cout << "Fare deducted. Remaining balance: " << balance << endl;
+            } else if (choice == 1 && balance < result.second) {
+                cout << "Insufficient balance!\n";
             }
 
-        } else if (choice == 3) { // Recharge
+        } else if (choice == 3) {
             recharge_card();
         }
 
@@ -91,3 +81,7 @@ int main() {
 
     return 0;
 }
+
+
+
+

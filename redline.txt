@@ -1,21 +1,21 @@
-Dilshad Garden
+Dilshad_Garden
 Jhilmil
-Mansarovar Park
-Delhi Shahdara
+Mansarovar_Park
+Delhi_Shahdara
 Welcome
 Seelampur
-Shastri Park
-Kashmere Gate
-Tis Hazari
-Pul Bangash
-Pratap Nagar
-Shastri Nagar
+Shastri_Park
+Kashmere_Gate
+Tis_Hazari
+Pul_Bangash
+Pratap_Nagar
+Shastri_Nagar
 Inderlok
-Kanhiya Nagar
-Keshav Puram
-Netaji Subhash Place
-Kohat Enclave
-Pitam Pura
-Rohini East
-Rohini West
+Kanhiya_Nagar
+Keshav_Puram
+Netaji_Subhash_Place
+Kohat_Enclave
+Pitam_Pura
+Rohini_East
+Rohini_West
 Rithala

@@ -1,34 +1,34 @@
 Jahangirpuri
-Adarsh Nagar
+Adarsh_Nagar
 Azadpur
-Model Town
-GTB Nagar
-Vishwa Vidyalaya
-Vidhan Sabha
-Civil Lines
-Kashmere Gate
-Chandni Chowk
-Chawri Bazar
-New Delhi
-Rajiv Chowk
-Patel Chowk
-Central Secretariat
-Udyog Bhawan
-Race Course
-Jor Bagh
+Model_Town
+GTB_Nagar
+Vishwa_Vidyalaya
+Vidhan_Sabha
+Civil_Lines
+Kashmere_Gate
+Chandni_Chowk
+Chawri_Bazar
+New_Delhi
+Rajiv_Chowk
+Patel_Chowk
+Central_Secretariat
+Udyog_Bhawan
+Race_Course
+Jor_Bagh
 INA
 AIIMS
-Green Park
-Hauz Khas
-Malviya Nagar
+Green_Park
+Hauz_Khas
+Malviya_Nagar
 Saket
-Qutub Minar
+Qutub_Minar
 Chhatarpur
 Sultanpur
 Ghitorni
-Arjan Garh
-Guru Dronacharya
+Arjan_Garh
+Guru_Dronacharya
 Sikandarpur
-MG Road
-IFFCO Chowk
-HUDA City Centre
+MG_Road
+IFFCO_Chowk
+HUDA_City_Centre

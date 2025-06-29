@@ -1,6 +1,6 @@
-New Delhi
-Shivaji Stadium
-Dhaula Kuan
-Delhi Aerocity
+New_Delhi
+Shivaji_Stadium
+Dhaula_Kuan
+Delhi_Aerocity
 Airport
-Dwarka Sector 21
+Dwarka_Sector_21

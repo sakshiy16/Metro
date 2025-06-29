@@ -1,16 +1,16 @@
-Central Secretariat
-Khan Market
-JLN Stadium
+Central_Secretariat
+Khan_Market
+JLN_Stadium
 Jangpura
-Lajpat Nagar
+Lajpat_Nagar
 Moolchand
-Kailash Colony
-Nehru Place
-Kalkaji Mandir
-Govind Puri
+Kailash_Colony
+Nehru_Place
+Kalkaji_Mandir
+Govind_Puri
 Okhla
-Jasola Apollo
-Sarita Vihar
-Mohan Estate
+Jasola_Apollo
+Sarita_Vihar
+Mohan_Estate
 Tughlakabad
 Badarpur

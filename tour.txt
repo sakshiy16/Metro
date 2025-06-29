@@ -1,56 +1,56 @@
-India Gate
-Central Secratariat
-Sansad Bhavan
-Central Secratariat
-Rashtrapati Bhavan
-Central Secratariat
-Connaught Place
-Rajiv Chowk
-Lodhi Gardens
-Jor Bagh
-Purana Quila
-Pragati Maidan
-Red Fort
-Chandni Chowk 
-Salimgarh Fort
-Kashmere Gate
-Chandni Chowk
-Chandni Chowk
-Safdarjung's Tomb
-Jor Bagh
-Qutab Minar
-Qutab Minar
+India_Gate
+Central_Secretariat
+Sansad_Bhavan
+Central_Secretariat
+Rashtrapati_Bhavan
+Central_Secretariat
+Connaught_Place
+Rajiv_Chowk
+Lodhi_Gardens
+Jor_Bagh
+Purana_Quila
+Pragati_Maidan
+Red_Fort
+Chandni_Chowk
+Salimgarh_Fort
+Kashmere_Gate
+Chandni_Chowk
+Chandni_Chowk
+Safdarjung's_Tomb
+Jor_Bagh
+Qutab_Minar
+Qutab_Minar
 Tughlakabad
 Tughlakabad
-Akshardham Temple
+Akshardham_Temple
 Akshardham
-Birla Mandir
-R K Ashram Marg
-Cathedral Church of Redemption
-Central Secratariat
-Gurdwara Bangla Sahib
-Rajiv Chowk
-ISKCON Temple
-Kalkaji Mandir
-Jama Masjid
-Chandni Chowk
-Lotus Temple
-Kalkaji Mandir
-St. James' Church
-Kashmere Gate
-Kalkaji Mandir
-Kalkaji Mandir
-National Museum
-Udyog Bhawan
-National Rail Museum
-Mandi House
-Jantar Mantar
-Patel Chowk
-Nizamuddin Dargah
-JLN Stadium
-Raj Ghat
-Chandni Chowk
-Shanti Vana
-Chandni Chowk
-National Zoological Park
-Pragati Maidan
+Birla_Mandir
+R_K_Ashram_Marg
+Cathedral_Church_of_Redemption
+Central_Secretariat
+Gurdwara_Bangla_Sahib
+Rajiv_Chowk
+ISKCON_Temple
+Kalkaji_Mandir
+Jama_Masjid
+Chandni_Chowk
+Lotus_Temple
+Kalkaji_Mandir
+St._James'_Church
+Kashmere_Gate
+Kalkaji_Mandir
+Kalkaji_Mandir
+National_Museum
+Udyog_Bhawan
+National_Rail_Museum
+Mandi_House
+Jantar_Mantar
+Patel_Chowk
+Nizamuddin_Dargah
+JLN_Stadium
+Raj_Ghat
+Chandni_Chowk
+Shanti_Vana
+Chandni_Chowk
+National_Zoological_Park
+Pragati_Maidan

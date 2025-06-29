@@ -1,138 +1,138 @@
 Jahangirpuri
-Adarsh Nagar
+Adarsh_Nagar
 Azadpur
-Model Town
-GTB Nagar
-Vishwa Vidyalaya
-Vidhan Sabha
-Civil Lines
-Kashmere Gate
-Chandni Chowk
-Chawri Bazar
-New Delhi
-Rajiv Chowk
-Patel Chowk
-Central Secretariat
-Udyog Bhawan
-Race Course
-Jor Bagh
+Model_Town
+GTB_Nagar
+Vishwa_Vidyalaya
+Vidhan_Sabha
+Civil_Lines
+Kashmere_Gate
+Chandni_Chowk
+Chawri_Bazar
+New_Delhi
+Rajiv_Chowk
+Patel_Chowk
+Central_Secretariat
+Udyog_Bhawan
+Race_Course
+Jor_Bagh
 INA
 AIIMS
-Green Park
-Hauz Khas
-Malviya Nagar
+Green_Park
+Hauz_Khas
+Malviya_Nagar
 Saket
-Qutub Minar
+Qutub_Minar
 Chhatarpur
 Sultanpur
 Ghitorni
-Arjan Garh
-Guru Dronacharya
+Arjan_Garh
+Guru_Dronacharya
 Sikandarpur
-MG Road
-HUDA City Centre
-Noida City Centre
-Noida Golf Course
-Botanical Garden
-Noida Sector 18
-Noida Sector 16
-Noida Sector 15
-New Ashok Nagar
-Mayur Vihar Extension
-Mayur Vihar-I
+MG_Road
+HUDA_City_Centre
+Noida_City_Centre
+Noida_Golf_Course
+Botanical_Garden
+Noida_Sector_18
+Noida_Sector_16
+Noida_Sector_15
+New_Ashok_Nagar
+Mayur_Vihar_Extension
+Mayur_Vihar-I
 Akshardham
-Yamuna Bank
+Yamuna_Bank
 Indraprastha
-Pragati Maidan
-Mandi House
-Barakhamba Road
-R K Ashram Marg
+Pragati_Maidan
+Mandi_House
+Barakhamba_Road
+R_K_Ashram_Marg
 Jhandewalan
-Karol Bagh
-Rajendra Place
-Patel Nagar
+Karol_Bagh
+Rajendra_Place
+Patel_Nagar
 Shadipur
-Moti Nagar
-Ramesh Nagar
-Rajouri Garden
-Tagore Garden
-Subhash Nagar
-Janakpuri East
-Janakpuri West
-Uttam Nagar East
-Uttam Nagar West
+Moti_Nagar
+Ramesh_Nagar
+Rajouri_Garden
+Tagore_Garden
+Subhash_Nagar
+Janakpuri_East
+Janakpuri_West
+Uttam_Nagar_East
+Uttam_Nagar_West
 Nawada
-Dwarka Mor
+Dwarka_Mor
 Dwarka
-Dwarka Sector 14
-Dwarka Sector 13
-Dwarka Sector 12
-Dwarka Sector 11
-Dwarka Sector 10
-Dwarka Sector 9
-Dwarka Sector 8
-Dwarka Sector 21
-Khan Market
-JLN Stadium
+Dwarka_Sector_14
+Dwarka_Sector_13
+Dwarka_Sector_12
+Dwarka_Sector_11
+Dwarka_Sector_10
+Dwarka_Sector_9
+Dwarka_Sector_8
+Dwarka_Sector_21
+Khan_Market
+JLN_Stadium
 Jangpura
-Lajpat Nagar
+Lajpat_Nagar
 Moolchand
-Kailash Colony
-Nehru Place
-Kalkaji Mandir
-Govind Puri
+Kailash_Colony
+Nehru_Place
+Kalkaji_Mandir
+Govind_Puri
 Okhla
-Jasola Apollo
-Sarita Vihar
-Mohan Estate
+Jasola_Apollo
+Sarita_Vihar
+Mohan_Estate
 Tughlakabad
 Badarpur
-Laxmi Nagar
-Nirman Vihar
-Preet Vihar
+Laxmi_Nagar
+Nirman_Vihar
+Preet_Vihar
 Karkarduma
-Anand Vihar ISBT
+Anand_Vihar_ISBT
 Kaushambi
 Vaishali
-Kirti Nagar
+Kirti_Nagar
 Inderlok
-Satguru Ramsingh Marg
-Ashok Park Main
-Punjabi Bagh East
-Shivaji Park
+Satguru_Ramsingh_Marg
+Ashok_Park_Main
+Punjabi_Bagh_East
+Shivaji_Park
 Madipur
-Paschim Vihar East
-Paschim Vihar West
-Peera Garhi
-Udyog Nagar
-Surajmal Stadium
+Paschim_Vihar_East
+Paschim_Vihar_West
+Peera_Garhi
+Udyog_Nagar
+Surajmal_Stadium
 Nangloi
-Nangloi Railway station
-Rajdhani Park
+Nangloi_Railway_station
+Rajdhani_Park
 Mundka
-Dilshad Garden
+Dilshad_Garden
 Jhilmil
-Mansarovar Park
-Delhi Shahdara
+Mansarovar_Park
+Delhi_Shahdara
 Welcome
 Seelampur
-Shastri Park
-Tis Hazari
-Pul Bangash
-Pratap Nagar
-Shastri Nagar
-Kanhiya Nagar
-Keshav Puram
-Netaji Subhash Place
-Kohat Enclave
-Pitam Pura
-Rohini East
-Rohini West
+Shastri_Park
+Tis_Hazari
+Pul_Bangash
+Pratap_Nagar
+Shastri_Nagar
+Kanhiya_Nagar
+Keshav_Puram
+Netaji_Subhash_Place
+Kohat_Enclave
+Pitam_Pura
+Rohini_East
+Rohini_West
 Rithala
-Shivaji Stadium
-Dhaula Kuan
-Delhi Aerocity
+Shivaji_Stadium
+Dhaula_Kuan
+Delhi_Aerocity
 Airport
-Palam Vihar
-Maruti Udyog
-IFFCO Chowk
+Palam_Vihar
+Maruti_Udyog
+IFFCO_Chowk
